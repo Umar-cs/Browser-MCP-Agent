@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/48507435-f596-459f-acfd-774455004020
+
+
+
+
+
 # Browser MCP Agent
 
 A Streamlit app that lets you control a real browser with natural-language commands using MCP, Playwright, and an LLM.
@@ -71,8 +79,6 @@ This project uses:
 - `mcp_agent.config.yaml` for runtime, model, and MCP server settings
 - `mcp_agent.secrets.yaml` for API keys and other sensitive values
 
-Do not commit secrets to GitHub. Keep `mcp_agent.secrets.yaml` in `.gitignore`.
-
 ## Example Use Cases
 
 - Navigate to a site and summarize its contents
@@ -81,22 +87,6 @@ Do not commit secrets to GitHub. Keep `mcp_agent.secrets.yaml` in `.gitignore`.
 - Prototype agent-based web automation workflows
 - Explore how LLMs can control browser tools through MCP
 
-## Demo Video
-
-Add a short screen recording that shows:
-
-1. Launching the Streamlit app
-2. Entering a browsing command
-3. The browser visiting a website
-4. The final natural-language response
-
-If you already have a recording, place it in the repository and reference it here, or attach it to a GitHub release for easier viewing.
-
-## Project Description for GitHub
-
-Use this as the short repository description:
-
-**Control a real browser with natural language using Streamlit, Playwright, and MCP-Agent.**
 
 ## Future Improvements
 
@@ -105,7 +95,3 @@ Use this as the short repository description:
 - Add task templates for common browsing flows
 - Improve error messages for missing credentials and tool startup
 - Support screenshots and structured outputs in the interface
-
-## License
-
-Add your preferred license before publishing if you want others to reuse the project.
