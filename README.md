@@ -5,7 +5,6 @@ https://github.com/user-attachments/assets/48507435-f596-459f-acfd-774455004020
 
 
 
-
 # Browser MCP Agent
 
 A Streamlit app that lets you control a real browser with natural-language commands using MCP, Playwright, and an LLM.
